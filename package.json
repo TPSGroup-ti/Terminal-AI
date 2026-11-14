@@ -1,1 +1,15 @@
+{
+  "name": "terminal-ai",
+  "version": "1.0.0",
+  "description": "Autonomous Mobile Terminal AI Workspace for Vela Core",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "พ่อธันวา (TPS Global)",
+  "license": "MIT"
+}
 
