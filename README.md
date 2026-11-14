@@ -1,4 +1,4 @@
-# 🥛 System Extractor (รีดนมระบบ)
+# 🥛 System Extractor
 
 <div align="center">
 
